@@ -16,3 +16,5 @@ Projeto de desenvolvimento de um site profissional para uma barbearia.
   ## Objetivo
 Criar uma presença online para apresentar a barbearia e os serviços prestados pelo barbeiro
 
+https://guilhermedecampos.github.io/projeto-barbearia/
+
